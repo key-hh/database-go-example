@@ -1,5 +1,5 @@
 # database-go-example
-golang database example( sql with sqlx, orm with entgo)
+golang database example
 
-- entgo: https://entgo.io/
-- sqlx: https://github.com/jmoiron/sqlx
+- entgo(for orm): https://entgo.io/
+- sqlx(for complex query): https://github.com/jmoiron/sqlx
